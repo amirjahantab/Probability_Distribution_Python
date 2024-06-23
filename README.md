@@ -2,7 +2,7 @@
 
 ## Discrete Uniform Distribution
 
-The discrete uniform distribution assigns equal probability to all integers between two specified values \( a \) and \( b \).
+The discrete uniform distribution assigns equal probability to all integers between two specified values $a$ and $b$.
 
 **Formula:**
 
@@ -11,7 +11,7 @@ $\ P(X=x) = \frac{1}{b-a+1} \$
 
 ## Bernoulli Distribution
 
-The Bernoulli distribution is a discrete distribution with only two possible outcomes, usually coded as 0 and 1. It is parameterized by \( p \), the probability of success (1).
+The Bernoulli distribution is a discrete distribution with only two possible outcomes, usually coded as 0 and 1. It is parameterized by $p$, the probability of success (1).
 
 **Formula:**
 
@@ -51,7 +51,7 @@ $\ P(X=k) = (1-p)^{k-1} p \$
 
 ## Continuous Uniform Distribution
 
-The continuous uniform distribution assigns equal probability to all points in the interval \([a, b]\).
+The continuous uniform distribution assigns equal probability to all points in the interval $[a, b]$.
 
 **Formula:**
 
@@ -59,7 +59,7 @@ $\ f(x) = \frac{1}{b-a} \$
 
 ## Normal Distribution
 
-The normal distribution is a continuous distribution characterized by its mean (\(\mu\)) and standard deviation (\(\sigma\)).
+The normal distribution is a continuous distribution characterized by its mean $\mu$ and standard deviation $\sigma$.
 
 **Formula:**
 
@@ -83,7 +83,7 @@ $\ f(x; k) = \frac{1}{2^{k/2} \Gamma(k/2)} x^{(k/2)-1} e^{-x/2} \$
 
 ## Gamma Distribution
 
-The gamma distribution generalizes the exponential distribution with shape parameter (\(k\)) and scale parameter (\(\theta\)).
+The gamma distribution generalizes the exponential distribution with shape parameter $k$ and scale parameter $\theta$.
 
 **Formula:**
 
